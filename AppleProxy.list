@@ -23,3 +23,11 @@ DOMAIN,tv.applemusic.com
 DOMAIN,uts-api.itunes.apple.com
 DOMAIN-SUFFIX,tv.apple.com
 PROCESS-NAME,TV
+# Apple iCloud Private Relay
+DOMAIN,mask.icloud.com
+DOMAIN,mask-canary.icloud.com
+DOMAIN,mask-h2.icloud.com
+DOMAIN,mask-api.icloud.com
+DOMAIN,mask.apple-dns.net
+DOMAIN,canary.mask.apple-dns.net
+DOMAIN-SUFFIX,safebrowsing.apple
