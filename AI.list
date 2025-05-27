@@ -14,6 +14,10 @@ DOMAIN,openaicom.imgix.net
 DOMAIN,openaicomproductionae4b.blob.core.windows.net
 DOMAIN,production-openaicom-storage.azureedge.net
 DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,chatgpt-async-webps-prod-
+DOMAIN-KEYWORD,openaicom-api-
+DOMAIN-SUFFIX,azurefd.net
+DOMAIN-SUFFIX,webpubsub.azure.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
@@ -24,6 +28,11 @@ DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,stripe.com
+DOMAIN, chatgpt.livekit.cloud
+DOMAIN, host.livekit.cloud
+DOMAIN, turn.livekit.cloud
+DOMAIN-SUFFIX, chat.com
+DOMAIN-SUFFIX, sora.com
 # Copilot
 DOMAIN,api.githubcopilot.com
 DOMAIN,copilot-proxy.githubusercontent.com
@@ -45,30 +54,34 @@ DOMAIN,generativeai.google
 DOMAIN,generativelanguage.googleapis.com
 DOMAIN,makersuite.google.com
 DOMAIN,proactivebackend-pa.googleapis.com
-# Meta
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,claudeusercontent.com
-IP-CIDR,160.79.104.0/23,no-resolve
-IP-CIDR6,2607:6bc0::/48,no-resolve
-DOMAIN-SUFFIX,grazie.ai
-DOMAIN-SUFFIX,grazie.aws.intellij.net
-DOMAIN-SUFFIX,jetbrains.ai
+# Claude
+DOMAIN-SUFFIX, anthropic.com
+DOMAIN-SUFFIX, claude.ai
+DOMAIN-SUFFIX, claudeusercontent.com
+IP-CIDR, 160.79.104.0/23, no-resolve
+IP-CIDR6, 2607:6bc0::/48, no-resolve
+# JetBrains AI
+DOMAIN-SUFFIX, grazie.ai
+DOMAIN-SUFFIX, grazie.aws.intellij.net
+DOMAIN-SUFFIX, jetbrains.ai
+# Meta AI
 DOMAIN,imagine.meta.com
 DOMAIN-SUFFIX,meta.ai
 # Perplexity
 DOMAIN-SUFFIX,pplx.ai
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,perplexity.com
-DOMAIN,chat.mistral.ai
-DOMAIN,console.mistral.ai
-DOMAIN-SUFFIX,mistral.ai
-# X-AI
+# Mistral AI
+DOMAIN, chat.mistral.ai
+DOMAIN, console.mistral.ai
+DOMAIN-SUFFIX, mistral.ai
+# Grok-AI
 DOMAIN,api.x.ai
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.com
-DOMAIN,trae-api-sg.mchost.guru
-DOMAIN-SUFFIX,trae.ai
+# Trae AI
+DOMAIN, trae-api-sg.mchost.guru
+DOMAIN-SUFFIX, trae.ai
 # Deepseek
 DOMAIN-SUFFIX,deepseek.com
 DOMAIN-KEYWORD,portal101
