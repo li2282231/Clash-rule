@@ -1,5 +1,5 @@
 # 内容：Wechat 微信
-# 数量：23条
+# 数量：22条
 USER-AGENT,MicroMessenger*
 USER-AGENT,WeChat*
 DOMAIN-SUFFIX,qlogo.cn
@@ -14,7 +14,6 @@ DOMAIN-SUFFIX,wechatpay.com
 DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,weixinbridge.com
 DOMAIN-SUFFIX,weixinsxy.com
-IP-CIDR,43.160.156.69/32,no-resolve
 IP-CIDR,101.32.104.4/32,no-resolve
 IP-CIDR,101.32.104.41/32,no-resolve
 IP-CIDR,101.32.104.56/32,no-resolve
