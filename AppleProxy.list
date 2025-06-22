@@ -1,3 +1,6 @@
+# Apple Safebrowsing
+DOMAIN,token.safebrowsing.apple
+DOMAIN,proxy.safebrowsing.apple
 # Apple Intelligence
 DOMAIN-KEYWORD,apple-relay
 # Apple FindMyDevice
