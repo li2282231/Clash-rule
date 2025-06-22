@@ -32,4 +32,3 @@ DOMAIN,mask-h2.icloud.com
 DOMAIN,mask-api.icloud.com
 DOMAIN,mask.apple-dns.net
 DOMAIN,canary.mask.apple-dns.net
-DOMAIN-SUFFIX,safebrowsing.apple
