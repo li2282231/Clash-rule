@@ -39,6 +39,7 @@ DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN,copilot.microsoft.com
 DOMAIN,sydney.bing.com
 DOMAIN,www.bing.com
+DOMAIN,tse3.mm.bing.net
 # Gemini
 DOMAIN,ai.google.dev
 DOMAIN,aida.googleapis.com
