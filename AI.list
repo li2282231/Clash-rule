@@ -33,13 +33,13 @@ DOMAIN, host.livekit.cloud
 DOMAIN, turn.livekit.cloud
 DOMAIN-SUFFIX, chat.com
 DOMAIN-SUFFIX, sora.com
+DOMAIN-SUFFIX,mm.bing.net
 # Copilot
 DOMAIN,api.githubcopilot.com
 DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN,copilot.microsoft.com
 DOMAIN,sydney.bing.com
 DOMAIN,www.bing.com
-DOMAIN,tse3.mm.bing.net
 # Gemini
 DOMAIN,ai.google.dev
 DOMAIN,aida.googleapis.com
