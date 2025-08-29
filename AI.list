@@ -83,7 +83,3 @@ DOMAIN-SUFFIX,grok.com
 # Trae AI
 DOMAIN, trae-api-sg.mchost.guru
 DOMAIN-SUFFIX, trae.ai
-# Deepseek
-DOMAIN-SUFFIX,deepseek.com
-DOMAIN-KEYWORD,portal101
-DOMAIN-SUFFIX,volces.com
