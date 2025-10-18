@@ -1,4 +1,5 @@
 DOMAIN,prod.ipprotectionauth.goog
+DOMAIN-SUFFIX,mm.bing.net
 DOMAIN-SUFFIX,codecguide.com
 DOMAIN-SUFFIX,dell.com
 DOMAIN-SUFFIX,v2ex.com
@@ -42,3 +43,4 @@ DOMAIN-SUFFIX,downloadhelper.net
 DOMAIN-SUFFIX,myqnap.org
 DOMAIN-SUFFIX,immersivetranslate.com
 DOMAIN-SUFFIX,deepl.com
+DOMAIN-SUFFIX,apk.tw
