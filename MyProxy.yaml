@@ -1,3 +1,4 @@
+payload:
 DOMAIN,prod.ipprotectionauth.goog
 DOMAIN-SUFFIX,mm.bing.net
 DOMAIN-SUFFIX,clashverge.dev
@@ -55,3 +56,4 @@ DOMAIN-SUFFIX,xlzyd.com
 DOMAIN-SUFFIX,baisiweiting.com
 DOMAIN-SUFFIX,bit.ly
 DOMAIN-SUFFIX,iill.top
+DOMAIN-SUFFIX,v1.mk
