@@ -150,3 +150,15 @@ payload:
 
 # Nvidia
   - DOMAIN, integrate.api.nvidia.com
+  
+# Kiro
+  - DOMAIN-SUFFIX, kiro.dev
+
+# CerebrasAI
+  - DOMAIN-SUFFIX, cerebras.ai
+
+# MiniMax国际版
+  - DOMAIN-SUFFIX, minimax.io
+
+# 智谱国际版
+  - DOMAIN-SUFFIX, z.ai
