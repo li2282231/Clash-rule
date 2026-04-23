@@ -1,4 +1,5 @@
 # Python
+payload:
   - DOMAIN,dualstack.python.map.fastly.net
   - DOMAIN-SUFFIX,pycon.org
   - DOMAIN-SUFFIX,pypa.io
