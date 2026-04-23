@@ -1,4 +1,5 @@
 # Apple FindMyDevice
+payload:
   - DOMAIN,humb.apple.com
   - DOMAIN,fmipalservice.icloud.com
   - DOMAIN,p44-fmfmobile.icloud.com
