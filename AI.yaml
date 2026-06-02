@@ -162,3 +162,6 @@ payload:
 
 # 智谱国际版
   - DOMAIN-SUFFIX, z.ai
+
+# Tapnow
+  - DOMAIN-KEYWORD, tapnow
