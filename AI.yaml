@@ -165,3 +165,6 @@ payload:
 
 # Tapnow
   - DOMAIN-KEYWORD, tapnow
+  
+# AnyVoice
+  - DOMAIN-SUFFIX, anyvoice.net
