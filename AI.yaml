@@ -162,6 +162,9 @@ payload:
 
 # 智谱国际版
   - DOMAIN-SUFFIX, z.ai
+  
+# 小米国际
+  - DOMAIN, token-plan-sgp.xiaomimimo.com
 
 # Tapnow
   - DOMAIN-KEYWORD, tapnow
