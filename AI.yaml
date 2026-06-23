@@ -174,9 +174,6 @@ payload:
   
 # 小米国际
   - DOMAIN, token-plan-sgp.xiaomimimo.com
-
-# Tapnow
-  - DOMAIN-KEYWORD, tapnow
   
 # AnyVoice
   - DOMAIN-SUFFIX, anyvoice.net
