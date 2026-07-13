@@ -21,12 +21,19 @@ payload:
   - DOMAIN-SUFFIX, sora.com
 
 # Tapnow
+  - DOMAIN, unpkg.com
+  - DOMAIN-SUFFIX, on.aws
+  - DOMAIN-SUFFIX, adsrvr.org
   - DOMAIN-SUFFIX, tapnow.ai
   - DOMAIN-SUFFIX, tapnow.art
+  - DOMAIN-SUFFIX, tapnow.media
   - DOMAIN-SUFFIX, adjust.com
   - DOMAIN-SUFFIX, mixpanel.com
   - DOMAIN-SUFFIX, stripe.com
   - DOMAIN-SUFFIX, stripe.network
+  - DOMAIN-SUFFIX, bidswitch.net
+  - DOMAIN-SUFFIX, pubmatic.com
+  - DOMAIN-SUFFIX, casalemedia.com
 
 # Copilot
   - DOMAIN, api.githubcopilot.com
