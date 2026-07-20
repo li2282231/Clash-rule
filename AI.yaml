@@ -19,6 +19,7 @@ payload:
   - DOMAIN-SUFFIX, oaiusercontent.com
   - DOMAIN-SUFFIX, openai.com
   - DOMAIN-SUFFIX, sora.com
+  - DOMAIN-SUFFIX, chatgpt.site
 
 # Tapnow
   - DOMAIN, unpkg.com
@@ -50,6 +51,7 @@ payload:
 # Gemini
   - DOMAIN, ai.google.dev
   - DOMAIN, aida.googleapis.com
+  - DOMAIN, aicode.googleapis.com
   - DOMAIN, aistudio.google.com
   - DOMAIN, alkalicore-pa.clients6.google.com
   - DOMAIN, alkalimakersuite-pa.clients6.google.com
