@@ -37,6 +37,13 @@ payload:
   - DOMAIN-SUFFIX, pubmatic.com
   - DOMAIN-SUFFIX, casalemedia.com
 
+# Suno
+  - DOMAIN, edge.prelude.dev
+  - DOMAIN-SUFFIX, suno.com
+  - DOMAIN-SUFFIX, suno.ai
+  - DOMAIN-SUFFIX, cloudfront.net
+  - DOMAIN-SUFFIX, realtime.ably.net
+
 # Copilot
   - DOMAIN, api.githubcopilot.com
   - DOMAIN, copilot-proxy.githubusercontent.com
