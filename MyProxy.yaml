@@ -74,3 +74,5 @@ payload:
   - DOMAIN-SUFFIX,qnap.com
   - DOMAIN-SUFFIX,huggingface.co
   - DOMAIN-SUFFIX,blackmagicdesign.com
+  - DOMAIN-SUFFIX,boy.wiki
+  - DOMAIN-SUFFIX,vtool.pro
